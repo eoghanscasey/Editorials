@@ -1,2 +1,2 @@
 # Editorials
-Select editorials from the [Journal of Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation).
+Select publications from my career in cyber investigation, digital forensics, and incident response.
